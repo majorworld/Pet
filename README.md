@@ -6,3 +6,6 @@ Pet版本号2.0
 
 ### 一共三种模式，Space热键模式，CapsLock方法模式和引号命令模式。
 
+https://pan.baidu.com/s/1NXouguejZ4AW7TMAYU0lMw
+
+https://share.weiyun.com/5KCqeSw
