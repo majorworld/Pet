@@ -6,6 +6,12 @@ Pet版本号2.0
 
 ### 一共三种模式，Space热键模式，CapsLock方法模式和引号命令模式。
 
-https://pan.baidu.com/s/1NXouguejZ4AW7TMAYU0lMw
+## 下载
 
-https://share.weiyun.com/5KCqeSw
+[百度云盘](https://pan.baidu.com/s/1NXouguejZ4AW7TMAYU0lMw)
+
+[腾讯微云](https://share.weiyun.com/5KCqeSw)
+
+## 介绍
+
+[小众软件](https://meta.appinn.net/t/pet/13605)
