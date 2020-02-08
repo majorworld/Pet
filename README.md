@@ -15,3 +15,7 @@ Pet版本号2.0
 ## 介绍
 
 [小众软件](https://meta.appinn.net/t/pet/13605)
+
+## 感谢
+
+[感谢【*木】2020-02-07 21：31：35对Pet的第一笔打赏](https://github.com/majorworld/Pet)
