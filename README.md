@@ -18,4 +18,4 @@ Pet版本号2.0
 
 ## 感谢
 
-[感谢【*木】2020-02-07 21：31：35对Pet的第一笔打赏](https://github.com/majorworld/Pet)
+[感谢【*木】2020-02-07 21:31:35对Pet的第一笔打赏](https://github.com/majorworld/Pet)
