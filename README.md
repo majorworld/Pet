@@ -10,17 +10,17 @@ Pet版本号2.1
 
 [小众软件](https://meta.appinn.net/t/pet/13605)
 
-#### 首次启动会在Pet.exe同目录生成Pet.ini文件，里面有触发器的按键绑定配置和功能介绍。
+#### (1)首次启动会在Pet.exe同目录生成Pet.ini文件，里面有触发器的按键绑定配置和功能介绍。
 
-#### 核心按【Space+E】【Space+D】【Space+S】【Space+F】控制鼠标光标上下左右移动
+#### (2)核心按【Space+E】【Space+D】【Space+S】【Space+F】控制鼠标光标上下左右移动
 
-#### 核心按【CapsLock+I】【CapsLock+K】【CapsLock+J】【CapsLock+L】控制鼠标光标上下左右移动
+#### (3)核心按【CapsLock+I】【CapsLock+K】【CapsLock+J】【CapsLock+L】控制鼠标光标上下左右移动
 
-#### 所有按键都可以通过Pet.ini文件修改和重新绑定
+#### (4)所有按键都可以通过Pet.ini文件修改和重新绑定
 
-#### 为防止误触Pet禁用了CapsLock，按【Shift+CapsLock】切换大小写锁定功能。
+#### (5)为防止误触Pet禁用了CapsLock，按【Shift+CapsLock】切换大小写锁定功能。
 
-#### 一共三种模式，Space热键模式，CapsLock方法模式和引号命令模式。
+#### (6)一共三种模式，Space热键模式，CapsLock方法模式和引号命令模式。
 
 ## 感谢
 
