@@ -37,11 +37,11 @@ Pet版本号2.1
 
 #### (4)添加SendInput$方法，例如p=SendInput${MButton}则按【CapsLock+P】模拟鼠标中键点击，参数和Space模式一样。
 
-#### (5)添加PetLock方法，锁住键盘鼠标，不过不能阻止系统组合键，例如Ctrl+Alt+Delete和Win+L。
+#### (5)添加PetLock方法，锁住键盘鼠标，例如Enter=PetLck则按【CapsLock+Enter】锁定键盘鼠标，不过不能阻止系统组合键，例如Ctrl+Alt+Delete和Win+L。
 
-#### (6)添加GetProcessPath方法，获取活动窗口路径，双击热键定位，例如按m=GetProcessPath则按【CapsLock+M】获取活动窗体路径。
+#### (6)添加GetProcessPath方法，获取活动窗口路径，双击热键定位，例如m=GetProcessPath则按【CapsLock+M】获取活动窗体路径。
 
-#### (7)添加GetClassName方法，获取活动窗口类名，双击热键复制类名，例如按n=GetClassName则按【CapsLock+N】获取活动窗体类名。
+#### (7)添加GetClassName方法，获取活动窗口类名，双击热键复制类名，例如n=GetClassName则按【CapsLock+N】获取活动窗体类名。
 
 ![图片预览1](https://meta.appinn.net/uploads/default/original/2X/8/8beb167a200ecf50e271e90b9336c807c25febca.png)
 
