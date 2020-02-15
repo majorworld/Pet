@@ -43,7 +43,11 @@ Pet版本号2.2
 
 #### (7)添加GetClassName方法，获取活动窗口类名，双击热键复制类名，例如n=GetClassName则按【CapsLock+N】获取活动窗体类名。
 
+[图片预览1](https://meta.appinn.net/uploads/default/original/2X/8/8beb167a200ecf50e271e90b9336c807c25febca.png)
+
 ![图片预览1](https://meta.appinn.net/uploads/default/original/2X/8/8beb167a200ecf50e271e90b9336c807c25febca.png)
+
+[图片预览2](https://meta.appinn.net/uploads/default/original/2X/3/34ec08e3efb7b2b3b257231ce63e1e41ba7c35f1.png)
 
 ![图片预览2](https://meta.appinn.net/uploads/default/original/2X/3/34ec08e3efb7b2b3b257231ce63e1e41ba7c35f1.png)
 
