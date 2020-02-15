@@ -31,12 +31,19 @@ Pet版本号2.1
 
 #### (1)按【Space+1】【Space+2】可以按任务栏图标位置切换窗口。
 
-#### (2)ReplaceText$方法可以替换选中文本，{Pet}为选中文本，例如ReplaceText$({Pet})则给选中的文本添加小括号。
+#### (2)托盘右键菜单可以对映射的配置项进行预览。
 
-#### (3)托盘右键菜单可以对映射的配置项进行预览。
+#### (3)添加ReplaceText$方法可以替换选中文本，例如s=ReplaceText$({Pet})则按【CapsLock+S】给选中的文本添加小括号，参数中{Pet}为选中文本。
 
-![图片预览1](https://meta.appinn.net/uploads/default/original/2X/9/9263da02a4f11ab092526cf00b97a13ad8c14f0b.png)
+#### (4)添加SendInput$方法，例如p=SendInput${MButton}则按【CapsLock+P】模拟鼠标中键点击，参数和Space模式一样。
+
+#### (5)添加PetLock方法，锁住键盘鼠标，不过不能阻止系统组合键，例如Ctrl+Alt+Delete和Win+L。
+
+#### (6)添加GetProcessPath方法，获取活动窗口路径，双击热键定位，例如按m=GetProcessPath则按【CapsLock+M】获取活动窗体路径。
+
+#### (7)添加GetClassName方法，获取活动窗口类名，双击热键复制类名，例如按n=GetClassName则按【CapsLock+N】获取活动窗体类名。
+
+![图片预览1](https://meta.appinn.net/uploads/default/original/2X/8/8beb167a200ecf50e271e90b9336c807c25febca.png)
 
 ![图片预览2](https://meta.appinn.net/uploads/default/original/2X/3/34ec08e3efb7b2b3b257231ce63e1e41ba7c35f1.png)
 
-![测试](https://avatars3.githubusercontent.com/u/20183937?s=120&v=4)
