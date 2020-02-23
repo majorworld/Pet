@@ -28,6 +28,7 @@ Pet版本号2.2
 ## 感谢
 
 [感谢【*木】2020-02-07 21:31:35对Pet的第一笔打赏](https://github.com/majorworld/Pet)
+[感谢【**城】2020-02-23 13:25:21对Pet的第二笔打赏](https://github.com/majorworld/Pet)
 
 
 ## 新增
